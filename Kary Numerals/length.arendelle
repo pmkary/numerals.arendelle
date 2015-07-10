@@ -1,0 +1,11 @@
+< n >
+
+( return ,
+
+   floor(
+
+      ( floor( log( @n ) ) + 1 ) / 2
+
+   )
+
+)
